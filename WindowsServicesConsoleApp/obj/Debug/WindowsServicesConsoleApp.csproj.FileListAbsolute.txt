@@ -1,0 +1,8 @@
+D:\AA\TestApps\WindowsServicesConsoleApp\WindowsServicesConsoleApp\bin\Debug\WindowsServicesConsoleApp.exe.config
+D:\AA\TestApps\WindowsServicesConsoleApp\WindowsServicesConsoleApp\bin\Debug\WindowsServicesConsoleApp.exe
+D:\AA\TestApps\WindowsServicesConsoleApp\WindowsServicesConsoleApp\bin\Debug\WindowsServicesConsoleApp.pdb
+D:\AA\TestApps\WindowsServicesConsoleApp\WindowsServicesConsoleApp\bin\Debug\Topshelf.dll
+D:\AA\TestApps\WindowsServicesConsoleApp\WindowsServicesConsoleApp\bin\Debug\Topshelf.xml
+D:\AA\TestApps\WindowsServicesConsoleApp\WindowsServicesConsoleApp\obj\Debug\WindowsServicesConsoleApp.csprojResolveAssemblyReference.cache
+D:\AA\TestApps\WindowsServicesConsoleApp\WindowsServicesConsoleApp\obj\Debug\WindowsServicesConsoleApp.exe
+D:\AA\TestApps\WindowsServicesConsoleApp\WindowsServicesConsoleApp\obj\Debug\WindowsServicesConsoleApp.pdb
